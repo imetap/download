@@ -122,9 +122,9 @@ import { useRoute, useRouter } from 'vue-router'
       icon: renderIcon(Trash)
     },
     {
-      //label: '邀请',
-     // key: 'invited',
-      //icon: renderIcon(Copy)
+      label: '邀请',
+      key: 'invited',
+      icon: renderIcon(Copy)
     },
      {
        label: '秒链',
