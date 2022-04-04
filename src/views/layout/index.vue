@@ -129,7 +129,7 @@ import { useRoute, useRouter } from 'vue-router'
      {
        label: '秒链',
        key: 'share',
-       icon: renderIcon(Share)
+       icon: renderIcon(Settings)
      },
     {
       label: '设置',
